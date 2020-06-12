@@ -1,1 +1,1 @@
-# 1st-DL-CVMarathon
+# 機器學習通識作業
